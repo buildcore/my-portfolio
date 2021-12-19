@@ -6,43 +6,43 @@ const ContactCode = () => {
       <p className={styles.line}>
         <span className={styles.className}>.socials</span> &#123;
       </p>
-      <p className={styles.line}>
+      {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
         <a href="https://nitinranganath.me" target="_blank" rel="noopener">
           nitinranganath.me
         </a>
         ;
-      </p>
+      </p> */}
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{' '}
         <a
-          href="mailto:nazariy@cleverprogrammer.com"
+          href="mailto:gerardotalvera@gmail.com"
           target="_blank"
           rel="noopener"
         >
-          nazariy@cleverprogrammer.com
+          gerardotalvera@gmail.com
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{' '}
-        <a href="https://github.com/nazariy995" target="_blank" rel="noopener">
-          nazariy995
+        <a href="https://github.com/gtis1-562" target="_blank" rel="noopener">
+        gtis1-562
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;linkedin:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="https://www.linkedin.com/in/gerardo-talavera/"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          Gerardo Talavera
         </a>
         ;
       </p>
-      <p className={styles.line}>
+      {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;twitter:{' '}
         <a
           href="https://www.twitter.com/iamnitinr"
@@ -99,7 +99,7 @@ const ContactCode = () => {
           itsnitinr
         </a>
         ;
-      </p>
+      </p> */}
       <p className={styles.line}>&#125;</p>
     </div>
   );

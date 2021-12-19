@@ -1,7 +1,16 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
+    "name": "Pkemon Team Builder",
+    "image": "https://imgur.com/O7kt2Lp.png",
+    "description": "A platform for web developers to showcase their projects",
+    "tags": ["react", "api", "css", "react native", "styled-components"],
+    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone",
+    "demo": "https://serene-goldberg-f96e9f.netlify.app"
+  },
+  {
+    "id": 1,
+    "name": "Amazon Clone",
     "image": "https://imgur.com/O7kt2Lp.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["react", "api", "css", "react native", "styled-components"],
@@ -9,7 +18,7 @@
   },
   {
     "id": 1,
-    "name": "YouTube Clone",
+    "name": "Clever Jobs",
     "image": "https://imgur.com/O7kt2Lp.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["react", "api", "css", "react native", "styled-components"],
