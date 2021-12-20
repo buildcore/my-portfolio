@@ -2,23 +2,24 @@
   {
     "id": 1,
     "name": "Pkemon Team Builder",
-    "image": "https://imgur.com/O7kt2Lp.png",
+    "image": "https://imgur.com/IMEHVi9.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone",
+    "tags": ["react", "api", "firebase", "css"],
+    "source_code": "https://github.com/gtis1-562/Pokemon-team-finder",
     "demo": "https://serene-goldberg-f96e9f.netlify.app"
   },
   {
     "id": 1,
-    "name": "Amazon Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
+    "name": "Clever Jobs",
+    "image": "https://imgur.com/WxTuui0.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "tags": ["react", "api", "css"],
+    "source_code": "https://github.com/gtis1-562/react-jobs",
+    "demo": "https://clever-jobs.vercel.app"
   },
   {
     "id": 1,
-    "name": "Clever Jobs",
+    "name": "Amazon Clone",
     "image": "https://imgur.com/O7kt2Lp.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["react", "api", "css", "react native", "styled-components"],
